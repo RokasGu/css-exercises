@@ -1,0 +1,15 @@
+.classy {
+    background-color: hsl(0, 91%, 83%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#first {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.cooler {
+    font-size: 24px;
+}
+#second {
+    background-color: #84e984;
+    font-weight: bold;
+}
